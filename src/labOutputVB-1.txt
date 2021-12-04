@@ -1,0 +1,8 @@
+7
+xyz@fct.uk
+13
+abc@fct.pt
+15
+www@fct.us
+20
+xxxx@fct.fr

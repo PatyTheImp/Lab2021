@@ -15,6 +15,9 @@ public class Project {
         this.collabsSize = 0;
     }
 
+    public int getId() { return id; }
+    public String getBidderEmail() { return bidderEmail; }
+
     public CollaboratorsIterator iterator() {
         sort();
         return new CollaboratorsIterator(collabsEmails, collabsSize);

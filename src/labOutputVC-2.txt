@@ -1,0 +1,13 @@
+13
+abc@fct.pt
+15
+www@fct.us
+17
+xyz@fct.uk
+20
+xxxx@fct.fr
+123
+14
+aaa@??
+aaa@???
+xpto@pt

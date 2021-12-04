@@ -1,0 +1,12 @@
+100
+a@aaa.aa
+200
+bb@bbb.bb
+300
+ccc@ccc.cc
+ABC@p200
+abc@p200
+XX@p300
+a@p300
+zzz@p300
+100-1@p100

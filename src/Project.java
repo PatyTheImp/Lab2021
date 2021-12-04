@@ -2,7 +2,6 @@ public class Project {
     private int id;
     private String description;
     private String bidderEmail;
-    private int maxCollaborators;
     private String[] collabsEmails;
     private int collabsSize;
 
@@ -10,7 +9,6 @@ public class Project {
         this.id = id;
         this.description = description;
         this.bidderEmail = bidder;
-        this.maxCollaborators = neededCollabs;
         this.collabsEmails = new String[neededCollabs];
         this.collabsSize = 0;
     }

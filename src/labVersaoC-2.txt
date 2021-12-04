@@ -1,0 +1,33 @@
+4
+13
+abc@fct.pt
+projecto 13
+6
+20
+xxxx@fct.fr
+projecto 20
+4
+17
+xyz@fct.uk
+projecto 17
+2
+15
+www@fct.us
+projecto 15
+3
+5
+15
+123
+15
+14
+17
+xpto@pt
+20
+aaa@??
+20
+aaa@???
+4
+15
+13
+20
+17
